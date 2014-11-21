@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Uge47BankCustumer.BankDataCentral">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAGAAAAAAABAAAEAIAEAAAAgAAAAAAA=</HashCode>
+      <FileName>ATM\BankDataCentral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uge47BankCustumer.Pengeautomat" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAQACICAAAAAAAAIAQAEAAAAAAAAIAAAgAAAEAAA=</HashCode>
+      <FileName>ATM\Pengeautomat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uge47BankCustumer.BankAccount" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAACAMAAAgAACBAAAAgQAAAAI=</HashCode>
+      <FileName>BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uge47BankCustumer.BankCustomer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAQAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>BankCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uge47BankCustumer.KreditKort" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQEAAAAACAAgAAEAACAAAAAgAAAgAA=</HashCode>
+      <FileName>KreditKort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uge47BankCustumer.PersonalInfo" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAEAAAAAAAAQAgAAEAAAAACAAAAAAA=</HashCode>
+      <FileName>PersonalInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uge47BankCustumer.Program" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
