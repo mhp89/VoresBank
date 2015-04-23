@@ -44,6 +44,7 @@
     <Compile Include="BankAccount.cs" />
     <Compile Include="BankCustomer.cs" />
     <Compile Include="ATM\BankDataCentral.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="KreditKort.cs" />
     <Compile Include="ATM\Pengeautomat.cs" />
     <Compile Include="PersonalInfo.cs" />
