@@ -10,5 +10,6 @@ namespace Uge47BankCustumer
     {
         private string t = "en string";
         private int i = 2;
+        private int j = 2;
     }
 }
