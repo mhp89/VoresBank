@@ -8,5 +8,6 @@ namespace Uge47BankCustumer
 {
     class Class1
     {
+        private string t = "en string";
     }
 }
