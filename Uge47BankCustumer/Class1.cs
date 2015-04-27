@@ -9,5 +9,7 @@ namespace Uge47BankCustumer
     class Class1
     {
         private string t = "en string";
+        private int i = 2;
+        private int j = 2;
     }
 }
