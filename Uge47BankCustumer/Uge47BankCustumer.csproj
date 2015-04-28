@@ -46,6 +46,7 @@
     <Compile Include="ATM\BankDataCentral.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
+    <Compile Include="Class3.cs" />
     <Compile Include="KreditKort.cs" />
     <Compile Include="ATM\Pengeautomat.cs" />
     <Compile Include="PersonalInfo.cs" />
